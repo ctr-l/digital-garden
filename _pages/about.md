@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Hello :) my name is Cherie & I'm currently cultivating this digital garden for LAWS3040: Regulation for Cyber Security.
