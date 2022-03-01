@@ -20,8 +20,8 @@ It is important to note that the Tallinn Manual is "not an official document" an
 
 Essentially, the Tallinn Manual is a reflection of the law that existed at the time of publication. It is not a guide for best practices. It does not reflect any development in the law. It does not provide policy considerations. 
 
-> Some fun legal terms 💡
-**Lex lata** - the law as it is
+> **Some fun legal terms 💡**</br>
+**Lex lata** - the law as it is</br>
 **Lex ferenda** - the law as it should be
 
 So, the Tallinn Manual is a restatement of *lex lata*, rather than *lex ferenda*.
