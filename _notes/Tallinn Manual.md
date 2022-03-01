@@ -6,6 +6,25 @@ The Tallinn Manual on the International Law Applicable to Cyber Warfare ('**Tall
 
 You can access a copy of it [here](https://www.cambridge.org/core/books/tallinn-manual-20-on-the-international-law-applicable-to-cyber-operations/E4FFD83EA790D7C4C3C28FC9CA2FB6C9).
 
-It is a collaborative effort between policy and legal experts. The current edition deals with ...
+It is a collaborative effort between policy and legal experts, and is ultimately non-binding. 
 
-Currently, the [[Cooperative Cyber Defence Centre of Excellence]] ('**CCDCOE**') is working on the 3rd edition of the Tallinn Manual.
+### A brief history
+The first edition was published in 2013, focusing on cyber operations involving the use of force, and those that occur in the context of armed conflict.
+
+The second edition was released in 2017 and expands on the first edition by considering the public interntational law that governs cyber operations during peacetime.
+
+The [[Cooperative Cyber Defence Centre of Excellence]] ('**CCDCOE**') is working on the 3rd edition of the Tallinn Manual.
+
+"Jus ad bellum" - the conditions under which States may resort to war, or the use of armed forces
+
+"Jus in bello" - regulates the conduct of parties engaged in an armed conflict
+
+# Legal force
+It is important to note that the Tallinn Manual is "not an official document".[^1]
+
+# Part I
+# Part II
+# Part III
+# Part IV
+
+[^1] From the Tallinn Manual itself.
