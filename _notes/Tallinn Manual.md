@@ -13,7 +13,7 @@ The first edition was published in 2013, focusing on cyber operations involving 
 
 The second edition was released in 2017 and expands on the first edition by considering the public interntational law that governs cyber operations during peacetime.
 
-The [[Cooperative Cyber Defence Centre of Excellence]] ('**CCDCOE**') is working on the 3rd edition of the Tallinn Manual.
+The [[Cooperative Cyber Defence Centre of Excellence]] ('**CCDCOE**') is currently working on the 3rd edition of the Tallinn Manual.
 
 "Jus ad bellum" - the conditions under which States may resort to war, or the use of armed forces
 
@@ -27,4 +27,4 @@ It is important to note that the Tallinn Manual is "not an official document".[^
 # Part III
 # Part IV
 
-[^1] From the Tallinn Manual itself.
+[^1]: From the Tallinn Manual itself.
