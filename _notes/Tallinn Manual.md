@@ -23,7 +23,8 @@ Essentially, the Tallinn Manual is a reflection of the law that existed at the t
 > **Some fun legal terms 💡**
 > 
 **Lex lata** - the law as it is
-**Lex ferenda** - the law as it should be
+> 
+> **Lex ferenda** - the law as it should be
 
 So, the Tallinn Manual is a restatement of *lex lata*, rather than *lex ferenda*.
 
