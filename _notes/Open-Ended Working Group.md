@@ -1,0 +1,2 @@
+What is an Open-Ended Working Group?
+As the name suggests, these are a format present in the UN that is considered the most open, allowing all UN memmer abd observer states, as well as intergovernmental 
