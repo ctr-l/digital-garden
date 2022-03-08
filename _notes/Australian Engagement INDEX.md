@@ -1,3 +1,3 @@
 ---
-title: Australian Public Engagement with International Cyber Law
+title: Australian engagement with international cyber law
 ---
