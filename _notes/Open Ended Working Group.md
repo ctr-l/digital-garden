@@ -3,7 +3,7 @@ title: OEWG
 ---
 
 ### What is an Open-Ended Working Group?
-As the name suggests, these are a format or process present in the [[United Nations|UN]] that is considered the most open - they allow the participation of all UN member states and others, such as:
+As the name suggests, these are a format or process used in the [[United Nations|UN]] that is considered the most open - they allow the participation of all UN member states and others, such as:
 - the private sector
 - NGOs
 - academics
