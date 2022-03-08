@@ -16,6 +16,7 @@ Sources of international law include:
 2. International custom
 3. General principles of law recognised by nations
 4. Judicial decisions, non-legally binding instruments, etc.
+5. NORMS!!! 
 
 what is it 
 why is it important to consider
