@@ -16,5 +16,5 @@ An open-ended working group on developments in the field of information and tele
 
 The resolultion establishing the OEWG can be read 🔗[here](https://undocs.org/en/A/RES/73/27).
 
-Their final report can be read 🔗[here](https://front.un-arm.org/wp-content/uploads/2021/03/Final-report-A-AC.290-2021-CRP.2.pdf.
+Their final report can be read 🔗[here](https://front.un-arm.org/wp-content/uploads/2021/03/Final-report-A-AC.290-2021-CRP.2.pdf).
 
