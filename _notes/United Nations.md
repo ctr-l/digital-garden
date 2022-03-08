@@ -1,3 +1,6 @@
+---
+alias: UN
+---
 What is the United Nations
 
 United Nations Secretariat
