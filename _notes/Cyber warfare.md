@@ -1,7 +1,7 @@
 ---
 title: Cyber Warfare and relevant laws
 ---
-There are two separate domains in which the rights and laws of armed conflict apply. Part **something** of the [[Tallinn Manual]] provides some rules in relation to cyber warfare.
+There are two separate domains in which the rights and laws of armed conflict apply. Part IV of the [[Tallinn Manual]] provides some rules in relation to cyber warfare.
 
 Jus ad bellum - these are the principles that govern the right to go to war
 
