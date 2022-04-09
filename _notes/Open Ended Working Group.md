@@ -1,5 +1,5 @@
 ---
-title: OEWG
+title: Open-Ended Working Group
 ---
 
 ### What is an Open-Ended Working Group?
@@ -8,7 +8,7 @@ As the name suggests, these are a format or process used in the [[United Nations
 - NGOs
 - academics
 
-Compared to the [[Group of Governmental Experts]], ...
+Compared to the [[Group of Governmental Experts]], the OEWG format is much more open as it consults with all interested stakeholders while consultations for the GGE are limited to Member States.
 
 Many OEWGs exist, tackling a large variety of issues, such as ageging and prevention of corruption. 
 

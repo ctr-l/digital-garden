@@ -7,9 +7,6 @@ International law attempts to define the legal responsibilities of nations in th
 
 As such, international law on cyber security mainly concerns 
 
-
-
-
 Sources of international law include:
 
 1. International conventions
