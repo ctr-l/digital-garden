@@ -12,7 +12,7 @@ Compared to the [[Group of Governmental Experts]], ...
 
 Many OEWGs exist, tackling a large variety of issues, such as ageging and prevention of corruption. 
 
-An open-ended working group on developments in the field of information and telecommunications in the context of international security was formed in by a resolution of the General Assembly in 2018.
+An open-ended working group on **developments in the field of information and telecommunications in the context of international security** was formed in by a resolution of the General Assembly in 2018.
 
 The resolultion establishing the OEWG can be read 🔗[here](https://undocs.org/en/A/RES/73/27).
 

@@ -1,7 +1,7 @@
 ---
 title: Key players in Australia's international engagement
 ---
-# Department of Foreign Affairs & Trade
+# [[DFAT|Department of Foreign Affairs and Trade]]
 ## Attorney-General's Department
 ## Australian Federal Police
 ## Australian Signals Directorate
@@ -11,4 +11,4 @@ title: Key players in Australia's international engagement
 ## Department of Infrastructure, Transport, Regional Development & Communications
 ## Department of the Prime Minister & Cabinet
 
-[[Australia's International Cyber and Critical Tech Engagement Strategy]]
+[[australiasengagementstrategy]]
