@@ -26,17 +26,14 @@ Essentially, the Tallinn Manual is a reflection of the law that existed at the t
 >**Lex ferenda** - the law as it should be
 
 So, the Tallinn Manual is a restatement of *lex lata*, rather than *lex ferenda*.
-
-## Scope
-...
-# Contents
-## Part I
-Part I of the Manual deals with general international law and cyber space. This section includes rules on concepts such as [[sovereignty]], jurisdiction and due diligence.
-## Part II
+## Contents
+### Part I
+Part I of the Manual deals with general international law and cyber space. This section includes rules on [[conceptsINDEX|concepts]] such as [[sovereignty]], jurisdiction and due diligence.
+### Part II
 Part II deals with specialised regimes of international law and cyber space, such as international human rights law and international telecommunications law.
-## Part III
+### Part III
 This part deals with international peace and security and cyber activities, including rules such as that a State may not intervene, including by cyber means, in the internal or external affairs of another State.
-## Part IV
+### Part IV
 The last part contains the remaining sections from the first edition of the Tallinn Manual pertaining to laws of armed cyber conflict.
 
 [^1]: From the Tallinn Manual itself.
