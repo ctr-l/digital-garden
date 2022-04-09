@@ -1,7 +1,7 @@
 ---
 title: Key players in Australia's international engagement
 ---
-# [[DFAT|Department of Foreign Affairs and Trade]]
+# [[Department of Foreign Affairs and Trade|Department of Foreign Affairs and Trade]]
 ## Attorney-General's Department
 ## Australian Federal Police
 ## Australian Signals Directorate

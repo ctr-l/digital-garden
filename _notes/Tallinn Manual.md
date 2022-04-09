@@ -18,7 +18,7 @@ The [[Cooperative Cyber Defence Centre of Excellence]] ('**CCDCOE**') is current
 ## Legal authority?
 It is important to note that the Tallinn Manual is "not an official document" and "must be understood only as an expression of the opinions of the two International Groups of Experts as to the state of the law".[^1]
 
-Essentially, the Tallinn Manual is a reflection of the law that existed at the time of publication. It is not a guide for best practices. It does not reflect any development in the law. It does not provide policy considerations. 
+Essentially, the authors of the Tallinn Manual assert that is a reflection of the law that existed at the time of publication. It is not a guide for best practices. It does not reflect any development in the law. It does not provide policy considerations. 
 
 > **Some fun Latin terms 💡**
 > 
@@ -26,9 +26,12 @@ Essentially, the Tallinn Manual is a reflection of the law that existed at the t
 >**Lex ferenda** - the law as it should be
 
 So, the Tallinn Manual is a restatement of *lex lata*, rather than *lex ferenda*.
+
+Nevertheless, some critics have noted that state practices at times differ from the law as recognised by the group of experts through the Manual.[^2]
+
 ## Contents
 ### Part I
-Part I of the Manual deals with general international law and cyber space. This section includes rules on [[conceptsINDEX|concepts]] such as [[sovereignty]], jurisdiction and due diligence.
+Part I of the Manual deals with general international law and cyber space. This section includes rules on [[conceptsINDEX|concepts]] such as [[sovereignty]], jurisdiction and [[due diligence]].
 ### Part II
 Part II deals with specialised regimes of international law and cyber space, such as international human rights law and international telecommunications law.
 ### Part III
@@ -37,3 +40,4 @@ This part deals with international peace and security and cyber activities, incl
 The last part contains the remaining sections from the first edition of the Tallinn Manual pertaining to laws of armed cyber conflict.
 
 [^1]: From the Tallinn Manual itself.
+[^2]: A Rule Book on the Shelf.
