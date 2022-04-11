@@ -3,7 +3,7 @@ title: International Regulation of the Cyber Space
 ---
 "The regulation of cyber space at the international level is rapidly developing, predominantly driven by the dual processes being pursued by States through the [[United Nations]] [[Group of Governmental Experts]] and the [[Open Ended Working Group]]. The mandates of both groups significantly overlap, although have different compositions."[^1]
 
-[[Australian Engagement INDEX|Australian engagement with international cyber law]] through the UN has been strong. Other prominent intergovernmental organisations involved in the regulation of the cyber space include the [[Cooperative Cyber Defence Centre of Excellence]].
+[[INDEX Australian government bodies|Australian engagement with international cyber law]] through the UN has been strong. Other prominent intergovernmental organisations involved in the regulation of the cyber space include the [[Cooperative Cyber Defence Centre of Excellence]].
 
 Other non-State efforts to develop a cohesive international framework for regulating the actions of nations in cyber space have also been coordinated, including the [[Tallinn Manual]].[^2]
 
