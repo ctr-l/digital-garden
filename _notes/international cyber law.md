@@ -9,7 +9,7 @@ Other non-State efforts to develop a cohesive international framework for regula
 
 As international law primarily governs the relationship between States, and focuses on subjects pertaining to the cyber space such as cyber crime and [[cyber warfare]].
 
-Consequently, international law has been [[criticised]] for being inadequate in [[sufficiency of international law in addressing non state actors|regulating the behaviour of non-State actors]].
+Consequently, international law has been [[Criticisms|criticised]] for being inadequate in [[sufficiency of international law in addressing non state actors|regulating the behaviour of non-State actors]].
 
 ### Intersections with other areas of concern (under construction)
 
