@@ -7,4 +7,9 @@ probably no
 
 derives from the way international law developed (this is why i should explore how international came about, sources, etc...)
 
-overt focus on norms produces a few ironies
+Most critics do not believe international law is sufficiently addressing the actions of non-State actors. Given the nature and [[International Law; what it is, etc.|sources of international law]], this may be an intrinsic flaw of relying on the international legal system to regulate actions in the cyber space.
+
+As seen through the work performed by the [[Open Ended Working Group]] and [[Group of Governmental Experts]], there is an overt focus on establishing norms to regulate the cyber space. However, the current shape of international law may be "incoherent with the dominance of nonstate actors as *de facto* operators of cyber space."[^1]
+
+[^1]: Nori Katagiri, 'Why international law and norms do little in preventing non-state cyber attacks' (2021) *Journal of Cyber Security* 1 3.
+

@@ -6,7 +6,9 @@ The unique nature of cyber space creates immense difficulties in enforcing the l
 ## 1. Anonymity
 Cyber space provides actors with the ability to act with full anonymity, making it difficult at times to trace or locate the actors, thus creating difficulties when establishing sovereignty and jurisdiction.
 
-## 2. Determining authority
+## 2. Lack of jurisdictions
+The internet or cyber space does not have geographically-derived borders. This makes it difficult to determine authority and attribute actions to specific actors.
+
 Determining authority is an important question to answer when considering the legitimacy of [[cyber warfare]]. 
 
 In the cyber space, who would be considered a legitimate authority? Cyber warfare is usually covert and carried out via proxies. You also face practical questions of whether a State would ever admit that they are engaging in cyber warfare. 
