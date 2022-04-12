@@ -13,15 +13,15 @@ Consequently, international law has been [[Criticisms|criticised]] for being ina
 
 ### Intersections with other areas of concern (under construction)
 
-#### Privacy
+#### [[Privacy]]
 
-privacy & data protection
+privacy & [[data protection]]
 
 - UN's resolution - the right to privacy in the digital age - affirmation as a human right
 
-governing the internet, content regulation, etc.
+governing the internet, [[content regulation]], etc.
 
-ecommerce
+[[ecommerce]]
 
 cyber crime - international perspectives
 
