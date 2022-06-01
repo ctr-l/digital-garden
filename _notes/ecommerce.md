@@ -14,5 +14,5 @@ Principles:
 - [[functional equivalence]]
 
 Law:
-[[Electronic Transactions Act 1999 (Cth)]]
-[[Electronic Transactions Regulations 2020 (Cth)]]
+[[Electronic Transactions Act 1999]] (Cth)
+[[Electronic Transactions Regulations 2020]] (Cth)
