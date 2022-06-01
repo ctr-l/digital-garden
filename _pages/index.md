@@ -13,7 +13,7 @@ permalink: /
 
 Hi! Just thought I'd say a few things about this little garden of mine before you get started on your exploration.
 
-My initial motivations for making this my project:
+My initial motivations for making this my Something Awesome project:
 - Expanding the existing Cyber Law Map seemed like a great opportunity to learn more about the overall frameworks and regulations that govern the cyber space.
 - I've always had an interest in international law.
 - This project would force me to relearn HTML, CSS and become more comfortable with Markdown.
@@ -25,9 +25,11 @@ So why did I choose a digital garden and not a blog if I just wanted to learn an
 - The flexibility associated with this format allows me to create links between notes and create a visual overview, which is much more like a map.
 - I wanted to continue learning about this area after the course ends and felt like a digital garden was better for facilitating this.
 
+Project scope: I originally attempted to expand the map in two ways: by adding more  information already present in the map (depth) and expanding the map by adding more concepts and links (breadth). The end product was never intended to be an accurate or conclusive mapping of international laws regulating the cyber space, but something more organic that grew with my own interest in, and understanding of, this constantly shifting landscape.
+
+As the course has now concluded, any growth is largely driven by my own interest.
+
 You can learn more about digital gardens [here](https://maggieappleton.com/garden-history).
- 
-The scope of this project:
  
 The template is open-source, created by [(@vaillancourtmax)](https://twitter.com/vaillancourtmax). 
 
