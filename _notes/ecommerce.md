@@ -7,7 +7,7 @@ How the cyberspace touches ecommerce:
 	- [[Jurisdiction]] issues
 	- how disputes can be resolved if transactions are cross-jurisdictional
 
-United Nations Commission on International Trade Law (UNCITRAL)
+[[United Nations Commission on International Trade Law]] (UNCITRAL)
 
 Principles:
 - [[technology neutrality]]
