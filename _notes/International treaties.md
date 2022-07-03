@@ -1,6 +1,6 @@
-Council of Europe Convention on Cybercrime 2004 / The Budapest Convention
+[[Council of Europe]] Convention on Cybercrime 2004 / [[The Budapest Convention]]
 
-Shanghai Cooperative
+The [[Shanghai Cooperation Organisation]]
 
 **Potential issues**
 

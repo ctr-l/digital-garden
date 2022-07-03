@@ -16,3 +16,5 @@ Principles:
 Law:
 [[Electronic Transactions Act 1999]] (Cth)
 [[Electronic Transactions Regulations 2020]] (Cth)
+
+Global online shopping: how well protected is the Australian consumer? — (2004) 12 CCLJ 163
