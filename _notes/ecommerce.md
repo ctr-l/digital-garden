@@ -18,3 +18,5 @@ Law:
 [[Electronic Transactions Regulations 2020]] (Cth)
 
 Global online shopping: how well protected is the Australian consumer? — (2004) 12 CCLJ 163
+
+Reflects overall trend of [[digitalisation of the economy]]
